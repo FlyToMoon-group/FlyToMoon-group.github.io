@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "翔皓集团",
+    "description": "",
+    "home_page_url": "https://FlyToMoon-group.github.io",
+    "feed_url": "https://FlyToMoon-group.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "official"
+    },
+    "items": [
+    ]
+}
